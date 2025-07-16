@@ -269,4 +269,33 @@ img {
     width: 100%;
   }
 }
+@media (max-width: 600px) {
+  header {
+    padding: 8px 4px;
+  }
+  .bar-header {
+    flex-direction: row;
+    gap: 8px;
+  }
+  h1 {
+    font-size: 18px;
+  }
+  .cart-shopping {
+    font-size: 20px;
+    margin-left: 12px;
+  }
+  .hamburger-menu {
+    width: 24px;
+    height: 24px;
+    margin-right: 12px;
+  }
+  .cart-price {
+    font-size: 12px;
+    margin-left: 4px;
+  }
+  .header-nav ul li a {
+    font-size: 14px;
+    padding: 4px 8px;
+  }
+}
 
