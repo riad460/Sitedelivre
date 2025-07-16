@@ -17,7 +17,7 @@ header {
   z-index: 1000;
   background-color: rgb(248, 220, 62);
   color: rgb(0, 0, 0);
-  padding: 12px 50px;
+  padding: 12px 10px;
 }
 .bar-header {
   display: flex;
